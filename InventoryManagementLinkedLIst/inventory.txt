@@ -1,0 +1,5 @@
+1,pepsi,500,120.0
+2,coca cola,400,120.0
+3,chili mili,700,10.0
+4,cocomo,300,10.0
+5,fanta,500,120.0
